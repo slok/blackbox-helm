@@ -1,4 +1,4 @@
-FROM lachlanevenson/k8s-helm:v2.9.1
+FROM lachlanevenson/k8s-helm:v2.11.0
 
 ENV PATH="${PATH}:/usr/blackbox/bin"
 
